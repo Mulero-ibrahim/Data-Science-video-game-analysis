@@ -40,5 +40,3 @@ Your feedback and contributions are welcome.
 
 Best regards,
 
-[Your Name]  
-Data Analyst
